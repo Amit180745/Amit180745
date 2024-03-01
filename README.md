@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+<img align="right" height="150" src="https://github.com/Amit180745/Amit180745/issues/1#issue-2164118572"  />
 
 ###
 
@@ -56,8 +56,6 @@
 ###
 
 <br clear="both">
-
-<img src="https://raw.githubusercontent.com/Amit180745/Amit180745/output/snake.svg" alt="Snake animation" />
 
 ###
 
