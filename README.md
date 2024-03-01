@@ -25,7 +25,7 @@
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" height="40" width="100" alt="html5 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" height="40" alt="html5 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" height="40" alt="css3 logo"  />
   <img width="12" />
@@ -60,7 +60,7 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Amit180745&locale=en&hide_title=false&layout=compact&card_width=50%&langs_count=5&theme=dracula&hide_border=true&order=2" height="180" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=Amit180745&locale=en&mode=daily&theme=dark&hide_border=true&border_radius=5&order=3" width="50%" height="200" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=Amit180745&locale=en&mode=daily&theme=dark&hide_border=true&border_radius=5&order=3" width="50%" height="210" alt="streak graph"  />
 </div>
 
 ###
