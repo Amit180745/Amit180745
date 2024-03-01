@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 ###
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif](https://drive.google.com/file/d/1-rmNqiF22VvA0gvPeizPdYYMk3pgrvxs/view?usp=sharing)"  />
+<img align="right" height="150" src="https://drive.google.com/file/d/1-rmNqiF22VvA0gvPeizPdYYMk3pgrvxs/view?usp=sharing"  />
 
 ###
 
