@@ -64,6 +64,5 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Amit180745/Amit180745/output/snake.svg" alt="Snake animation" />
 
 ###
