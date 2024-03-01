@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I'm  Amit Kumar Singh from Jaunpur, UP.<br><br>- 📚 I'm currently learning MERN stack and DSA with Java.<br>- ⚡ In my free time I explore YouTube.<br>-😎 Enjoy to develop new websites<br>-😃 Ask me about Frontend and Backend Development.</p>
+<p align="left">I'm  Amit Kumar Singh from Jaunpur, UP.<br><br>- 📚 I'm currently learning MERN stack and DSA with Java.<br>- ⚡ In my free time I explore YouTube and solve aptitude.<br>-😎 Enjoy to develop new websites<br>-😃 Ask me about Frontend and Backend Development.</p>
 
 ###
 
@@ -59,10 +59,8 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Amit180745&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Amit180745&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true&order=2" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=Amit180745&locale=en&mode=daily&theme=dark&hide_border=true&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
-
-###
-
 
 ###
