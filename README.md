@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I'm  Amit Kumar Singh from Jaunpur, UP.<br><br>- 📚 I'm currently learning MERN stack and DSA with Java.<br>- ⚡ In my free time I explore YouTube and solve aptitude.<br>-😎 Enjoy to develop new websites<br>-😃 Ask me about Frontend and Backend Development.</p>
+<p align="left">I'm  Amit Kumar Singh from Jaunpur, UP.<br><br>- 📚 I'm currently learning MERN stack and DSA with Java.<br>- ⚡ In my free time I explore YouTube and solve aptitudes.<br>-😎 Enjoy to develop new websites<br>-😃 Ask me about Frontend and Backend Development.</p>
 
 ###
 
