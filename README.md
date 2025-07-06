@@ -1,66 +1,48 @@
-<h3 align="left">👩‍💻  About Me</h3>
+<h1 align="center">Hi there, I'm Amit Kumar Singh 👋</h1>
+<h3 align="center">Full-Stack Web Developer | Turning ideas into powerful digital experiences</h3>
 
-###
+---
 
-<p align="left">I'm  Amit Kumar Singh from Jaunpur, UP.<br><br>- 📚 I'm currently learning MERN stack and DSA with Java.<br>- ⚡ In my free time I watch YouTube and solve aptitudes.<br>-😎 I enjoy in Developing.<br>-😃 Ask me about Frontend and Backend Development.</p>
+🚀 **About Me**  
+I'm a passionate web developer.
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Coding gif"/>
+</p>
 
-###
 
-<div align="left">
-  <a href="https://www.linkedin.com/in/amit-kumar-singh-a493b1193/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="https://twitter.com/Amitsingh1807" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
-  </a>
-  <a href="https://www.instagram.com/thakur_amit018/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-  </a>
-</div>
 
-###
 
-<h3 align="left">🛠 Language and tools</h3>
+🛠️ **Tech Stack**  
+Frontend:  
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/> 
+<img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js"/> 
+<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>  
+Animation:  
+<img src="https://img.shields.io/badge/Framer%20Motion-black?style=for-the-badge&logo=framer&logoColor=white"/>
+<img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white"/>  
+Backend:  
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/> 
+<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>  
+Database:  
+<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/> 
+<img src="https://img.shields.io/badge/Firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black"/>
 
-###
+🌟 **What I Do**
+- Create responsive, mobile-first websites & apps
+- Build APIs
+- Integrate smooth animations & motion
+- Optimize for performance
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" height="40" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" alt="npm logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg" height="40" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
-</div>
+  
+📊 **Most Used Languages**  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=divyashrma18&layout=compact&theme=tokyonight" />
+</p>
 
-###
 
-<h3 align="left">🔥   My Stats :</h3>
+📫 **Let’s Connect**  
+[📧 Email Me](mailto:thakuramit9019@gmail.com) • [💼 LinkedIn](https://www.linkedin.com/in/amit-kumar-singh-a493b1193)
 
-###
+---
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Amit180745&locale=en&hide_title=false&layout=compact&card_width=50%&langs_count=8&theme=dark&hide_border=true&order=2" height="195" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=Amit180745&locale=en&mode=daily&theme=dark&hide_border=true&border_radius=5&order=3" width="50%" height="220" alt="streak graph"  />
-</div>
-
-###
+⚡ _“Code is like magic — if you know the spell, you can build anything.”_
